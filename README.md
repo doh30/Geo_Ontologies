@@ -1,1 +1,1 @@
-# The_Knowledge_of_Places
+Keywords: ontology, geospatial semantics, geographic information retrieval
